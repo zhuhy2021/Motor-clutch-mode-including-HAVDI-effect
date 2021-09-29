@@ -1,5 +1,5 @@
 # Motor-clutch-mode-including-HAVDI-effect
-Please cite the repository as:  Cheng Zhang, Hongyuan Zhu, Xinru Ren, Bin Gao, Bo Cheng, Shaobao Liu, Baoyong Sha, Zhaoqing Li, Zheng Zhang, Yi Lv, Haohua Wang, Hui Guo, Tianjian Lu, Feng Xu, Guy M. Genin, Min Lin, Mechanics-driven nuclear localization of YAP can be reversed by N-cadherin ligation in mesenchymal stem cells, Motor-clutch-mode-including-HAVDI-effect, DOI identifier, (2021).
+Please cite the repository as:  Cheng Zhang, Hongyuan Zhu, Xinru Ren, Bin Gao, Bo Cheng, Shaobao Liu, Baoyong Sha, Zhaoqing Li, Zheng Zhang, Yi Lv, Haohua Wang, Hui Guo, Tianjian Lu, Feng Xu, Guy M. Genin, Min Lin, Mechanics-driven nuclear localization of YAP can be reversed by N-cadherin ligation in mesenchymal stem cells, zhuhy2021/Motor-clutch-model-including-HAVDI-effect, https://zenodo.org/badge/latestdoi/411679352, (2021).
 
 
 The repository including two files:
